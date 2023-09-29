@@ -1,3 +1,24 @@
+# To-Do List Manager
+
+This is a simple Python application for managing your to-do list. It allows you to add tasks, delete tasks, and clear the entire list.
+
+## Features
+
+- **Add Task:** Enter a task and click "Add Task" to add it to your to-do list.
+
+- **Delete Task:** Select a task and click "Delete Task" to remove it from the list.
+
+- **Delete All Tasks:** Click "Delete All Tasks" to remove all tasks from the list.
+
+## Getting Started
+
+### Prerequisites
+
+- Python (>=3.6)
+- Tkinter (usually included in standard Python distributions)
+- SQLite3 (usually included in standard Python distributions)
+
+
 # CRT-Internship
 # Personal Budget Tracker
 
